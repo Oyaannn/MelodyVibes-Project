@@ -16,14 +16,19 @@
 
 2. Scan the barcode with [Expo Go](https://expo.dev/go)
 
-<!-- ## Demo recording of the application
+## UI Design Link
 
-[![Demo Video](assets/images/thumbnail.png)](https://youtube.com/shorts/85xhMCB6CNU?feature=share)
+- https://www.figma.com/design/CrLxNGuTAkuiaMpe3r6Pyn/Music-UI-Design?node-id=0-1&t=uYRFsOYAaoYBgtjY-1
 
-<!-- ## Screenshoot
-<img src="assets/images/result/2.jpg" alt="Deskripsi" width="200" />
+## Demo recording of the application
+
+[![Demo Video](assets/images/thumbnail.png)](https://youtu.be/RY77RIPYli4)
+
+## Screenshoot
+<img src="assets/images/result/1.jpg" alt="Deskripsi" width="200" />
 <img src="assets/images/result/3.jpg" alt="Deskripsi" width="200" />
-<img src="assets/images/result/4.jpg" alt="Deskripsi" width="200" />
-<img src="assets/images/result/5.jpg" alt="Deskripsi" width="200" /> --> -->
+<img src="assets/images/result/2.jpg" alt="Deskripsi" width="200" />
+<img src="assets/images/result/6.jpg" alt="Deskripsi" width="200" />
+<img src="assets/images/result/7.jpg" alt="Deskripsi" width="200" />
 
 
